@@ -1,3 +1,5 @@
+package A3_Student;
+
 public class A3_Main_ClassStudent {
 
     public static void main(String[] args) {
